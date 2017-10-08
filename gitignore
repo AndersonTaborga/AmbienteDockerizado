@@ -1,2 +1,5 @@
 # Remove node_modules:
 .node-mongo-compose/**/node_modules/
+
+# Ignore VsCode files
+.VsCode
